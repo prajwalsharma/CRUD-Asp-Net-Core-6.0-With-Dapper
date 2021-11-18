@@ -1,0 +1,15 @@
+{
+  "short_name": "CRUD_Asp_Net_Core_6._0_With_Dapper",
+  "name": "CRUD_Asp_Net_Core_6._0_With_Dapper",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
